@@ -1,0 +1,38 @@
+[0.010s] Invoking command in '/home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thiru/turtlebot3_ws/install/turtlebot3_teleop:/home/thiru/turtlebot3_ws/install/turtlebot3_example:/home/thiru/turtlebot3_ws/install/turtlebot3_description:/home/thiru/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/humble /home/thiru/.local/bin/cmake /home/thiru/Desktop/Buddybot_git/buddy_bot/src -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot
+[0.033s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.106s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.111s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.183s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.186s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.186s] -- Added test 'lint_cmake' to check CMake code style
+[0.187s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.188s] -- Added test 'xmllint' to check XML markup files
+[0.190s] -- Configuring done (0.2s)
+[0.192s] -- Generating done (0.0s)
+[0.192s] -- Build files have been written to: /home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot
+[0.198s] Invoked command in '/home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thiru/turtlebot3_ws/install/turtlebot3_teleop:/home/thiru/turtlebot3_ws/install/turtlebot3_example:/home/thiru/turtlebot3_ws/install/turtlebot3_description:/home/thiru/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/humble /home/thiru/.local/bin/cmake /home/thiru/Desktop/Buddybot_git/buddy_bot/src -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot
+[0.199s] Invoking command in '/home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thiru/turtlebot3_ws/install/turtlebot3_teleop:/home/thiru/turtlebot3_ws/install/turtlebot3_example:/home/thiru/turtlebot3_ws/install/turtlebot3_description:/home/thiru/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/humble /home/thiru/.local/bin/cmake --build /home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot -- -j8 -l8
+[0.232s] Invoked command in '/home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thiru/turtlebot3_ws/install/turtlebot3_teleop:/home/thiru/turtlebot3_ws/install/turtlebot3_example:/home/thiru/turtlebot3_ws/install/turtlebot3_description:/home/thiru/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/humble /home/thiru/.local/bin/cmake --build /home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot -- -j8 -l8
+[0.286s] Invoking command in '/home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thiru/turtlebot3_ws/install/turtlebot3_teleop:/home/thiru/turtlebot3_ws/install/turtlebot3_example:/home/thiru/turtlebot3_ws/install/turtlebot3_description:/home/thiru/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/humble /home/thiru/.local/bin/cmake --install /home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot
+[0.307s] -- Install configuration: ""
+[0.307s] -- Execute custom install script
+[0.307s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/config/empty.yaml
+[0.309s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/description/robot.urdf.xacro
+[0.312s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/launch/rsp.launch.py
+[0.314s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/worlds/empty.world
+[0.315s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/ament_index/resource_index/package_run_dependencies/buddy_bot
+[0.317s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/ament_index/resource_index/parent_prefix_path/buddy_bot
+[0.319s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/environment/ament_prefix_path.sh
+[0.320s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/environment/ament_prefix_path.dsv
+[0.322s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/environment/path.sh
+[0.325s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/environment/path.dsv
+[0.327s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/local_setup.bash
+[0.328s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/local_setup.sh
+[0.331s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/local_setup.zsh
+[0.332s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/local_setup.dsv
+[0.335s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/package.dsv
+[0.337s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/ament_index/resource_index/packages/buddy_bot
+[0.338s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/cmake/buddy_botConfig.cmake
+[0.340s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/cmake/buddy_botConfig-version.cmake
+[0.343s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/package.xml
+[0.353s] Invoked command in '/home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thiru/turtlebot3_ws/install/turtlebot3_teleop:/home/thiru/turtlebot3_ws/install/turtlebot3_example:/home/thiru/turtlebot3_ws/install/turtlebot3_description:/home/thiru/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/humble /home/thiru/.local/bin/cmake --install /home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot

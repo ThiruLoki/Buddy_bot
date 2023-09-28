@@ -1,0 +1,32 @@
+-- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/config/empty.yaml
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/description/robot.urdf.xacro
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/launch/rsp.launch.py
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/worlds/empty.world
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/ament_index/resource_index/package_run_dependencies/buddy_bot
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/ament_index/resource_index/parent_prefix_path/buddy_bot
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/environment/ament_prefix_path.sh
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/environment/ament_prefix_path.dsv
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/environment/path.sh
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/environment/path.dsv
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/local_setup.bash
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/local_setup.sh
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/local_setup.zsh
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/local_setup.dsv
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/package.dsv
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/ament_index/resource_index/packages/buddy_bot
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/cmake/buddy_botConfig.cmake
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/cmake/buddy_botConfig-version.cmake
+-- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/package.xml
