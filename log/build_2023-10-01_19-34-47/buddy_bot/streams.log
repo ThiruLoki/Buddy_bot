@@ -1,0 +1,26 @@
+[0.022s] Invoking command in '/home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thiru/turtlebot3_ws/install/turtlebot3_teleop:/home/thiru/turtlebot3_ws/install/turtlebot3_example:/home/thiru/turtlebot3_ws/install/turtlebot3_description:/home/thiru/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/humble /home/thiru/.local/bin/cmake --build /home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot -- -j8 -l8
+[0.068s] Invoked command in '/home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thiru/turtlebot3_ws/install/turtlebot3_teleop:/home/thiru/turtlebot3_ws/install/turtlebot3_example:/home/thiru/turtlebot3_ws/install/turtlebot3_description:/home/thiru/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/humble /home/thiru/.local/bin/cmake --build /home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot -- -j8 -l8
+[0.162s] Invoking command in '/home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thiru/turtlebot3_ws/install/turtlebot3_teleop:/home/thiru/turtlebot3_ws/install/turtlebot3_example:/home/thiru/turtlebot3_ws/install/turtlebot3_description:/home/thiru/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/humble /home/thiru/.local/bin/cmake --install /home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot
+[0.192s] -- Install configuration: ""
+[0.192s] -- Execute custom install script
+[0.192s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/config/empty.yaml
+[0.193s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/description/robot.urdf.xacro
+[0.194s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/description/robot_core.xacro
+[0.194s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/launch/rsp.launch.py
+[0.194s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/worlds/empty.world
+[0.194s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/ament_index/resource_index/package_run_dependencies/buddy_bot
+[0.194s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/ament_index/resource_index/parent_prefix_path/buddy_bot
+[0.195s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/environment/ament_prefix_path.sh
+[0.195s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/environment/ament_prefix_path.dsv
+[0.195s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/environment/path.sh
+[0.195s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/environment/path.dsv
+[0.195s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/local_setup.bash
+[0.195s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/local_setup.sh
+[0.196s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/local_setup.zsh
+[0.196s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/local_setup.dsv
+[0.196s] -- Symlinking: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/package.dsv
+[0.200s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/ament_index/resource_index/packages/buddy_bot
+[0.200s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/cmake/buddy_botConfig.cmake
+[0.200s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/cmake/buddy_botConfig-version.cmake
+[0.201s] -- Up-to-date symlink: /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/package.xml
+[0.207s] Invoked command in '/home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thiru/turtlebot3_ws/install/turtlebot3_teleop:/home/thiru/turtlebot3_ws/install/turtlebot3_example:/home/thiru/turtlebot3_ws/install/turtlebot3_description:/home/thiru/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/humble /home/thiru/.local/bin/cmake --install /home/thiru/Desktop/Buddybot_git/buddy_bot/build/buddy_bot
