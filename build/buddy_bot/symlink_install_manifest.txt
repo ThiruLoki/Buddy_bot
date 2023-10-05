@@ -2,11 +2,14 @@
 /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/config/view_bot.rviz
 /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/description/gazebo_control.xacro
 /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/description/inertial_macros.xacro
+/home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/description/lidar.xacro
 /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/description/robot.urdf.xacro
 /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/description/robot_core.xacro
 /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/launch/launch_sim.launch.py
+/home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/launch/rplidar.launch.py
 /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/launch/rsp.launch.py
 /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/worlds/empty.world
+/home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/worlds/office_world.world
 /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/ament_index/resource_index/package_run_dependencies/buddy_bot
 /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/ament_index/resource_index/parent_prefix_path/buddy_bot
 /home/thiru/Desktop/Buddybot_git/buddy_bot/install/buddy_bot/share/buddy_bot/environment/ament_prefix_path.sh
