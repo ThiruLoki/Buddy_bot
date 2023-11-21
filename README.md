@@ -1,5 +1,7 @@
 # Buddy Bot
 
+![Buddy Bot Logo](buddy_bot_logo.png)
+
 ## Overview
 
 Buddy Bot: Your autonomous office robot, designed to assist and streamline indoor tasks in the workplace. It combines the power of ROS 2 with a customizable hardware platform, making it an ideal choice for robotics enthusiasts, researchers, and students. This repository contains all the necessary resources and instructions to get started with Buddy Bot.
